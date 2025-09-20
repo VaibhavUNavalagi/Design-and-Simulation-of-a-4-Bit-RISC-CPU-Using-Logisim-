@@ -51,9 +51,8 @@ The **Arithmetic Logic Unit (ALU)** is the computational heart of the CPU.
 - Flags: **Zero** & **Carry** (future use: conditional branching)  
 - Modular structure → easy extension for `SUB`, `NOT`, `SHIFT`  
 
-📷 *Insert ALU Circuit Image Here*  
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/dd3e20bc-d369-4067-9aa5-ad9702816fc2" />
 
----
 
 ## 🖥️ Final CPU Design  
 The complete **4-Bit RISC CPU** integrates all building blocks:  
@@ -66,9 +65,8 @@ The complete **4-Bit RISC CPU** integrates all building blocks:
 - **Memory Unit** → Program & data separation  
 - **7-Segment Display** → For debugging & output visualization  
 
-📷 *Insert Final CPU Circuit Image Here*  
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/ab546f7c-aa53-465f-92c2-e367ccbe4438" />
 
----
 
 ## 🧾 Instruction Set  
 | Opcode | Mnemonic | Operation | Example |
