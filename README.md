@@ -76,3 +76,13 @@ The complete **4-Bit RISC CPU** integrates all building blocks:
 | 0011   | OR       | R[d] ← R[s1] OR R[s2] | OR R1, R3 |
 | 0100   | XOR      | R[d] ← R[s1] XOR R[s2] | XOR R2, R3 |  
 
+## Conclusion & Future Work
+
+# This project successfully demonstrates the fundamentals of CPU design in a clear and modular way. By simulating a 4-bit RISC processor, it lays the foundation for exploring how real-world processors are built and optimized.
+
+*In terms of real-world relevance:*
+
+- Similar concepts are used in microcontrollers (Arduino, PIC, ARM Cortex-M) that power IoT devices.
+- The Harvard Architecture is applied in DSP processors for efficient handling of multimedia data.
+- The RISC philosophy influences modern CPUs like ARM processors found in smartphones and embedded systems.
+
