@@ -76,12 +76,3 @@ The complete **4-Bit RISC CPU** integrates all building blocks:
 | 0011   | OR       | R[d] ← R[s1] OR R[s2] | OR R1, R3 |
 | 0100   | XOR      | R[d] ← R[s1] XOR R[s2] | XOR R2, R3 |  
 
-*(More instructions can be added in future versions)*  
-
----
-
-## ▶️ Usage Guide  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/4bit-risc-cpu.git
-   cd 4bit-risc-cpu
